@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="FirstNameText">Primeiro Nome :</string>
+    <string name="FirstNameTextField">Coloque seu primeiro nome</string>
+    <string name="SecondNameTextField">Coloque seu segundo nome</string>
+    <string name="LastNameText">segundo nome :</string>
+    <string name="EmailText">Email :</string>
+    <string name="UserMailId">coloque seu email</string>
+    <string name="submitButton">registrar</string>
+    <string name="List_of_Users_text">lista de usuarios registrados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">.</string>
+    <string name="PasswordText">Senha :</string>
+    <string name="PasswordTextFiels">Coloque sua senha</string>
+    <string name="UserNameTextView">Nome de Usuario:</string>
+    <string name="UsernameTextField">Coloque seu nome de usuario</string>
+    <string name="backButton">Voltar</string>
+    <string name="Login_text">Logar</string>
+    <string name="Login_button">Logar</string>
+    <string name="signupText">Cadastrar</string>
+</resources>
